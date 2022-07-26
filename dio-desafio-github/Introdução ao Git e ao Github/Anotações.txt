@@ -1,0 +1,14 @@
+#Introdução ao Git 
+
+* navegação via command line interface e instalação  
+*dir = lista de diretóriosda pasta 
+*cd = navegar entre as pastas
+*cls = p/ limpar o terminal
+*Tab = atalho p/ autocompletar
+*mkdir + nome da pasta = para criar pastas
+*cd + pastas 
+*echo = criar arquivosdentro da pasta
+*del =deleta arquivos
+*rmdir = remover repositórios
+* rmdir = remover repositórios
+*rmdir + pasta /S /Q
